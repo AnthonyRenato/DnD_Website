@@ -1,0 +1,37 @@
+body {
+  background-color: rgba(90,05,250, .45);
+  margin: 0;
+}
+
+
+header {
+  float: left;
+  width: 100%;
+  background-color: rgba(90,05,250, .45);
+  text-align: center;
+  height: 75px;
+  border-radius: 500px 0 500px 0;
+  padding: 25px 0 25px 0;
+}
+
+header text {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+header img {
+  padding: 0 15px 0 15px;
+  width: 50px;
+  height: 50px;
+}
+
+
+a:link, a:visited {
+  color: Black;
+  text-decoration: none;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active {
+  color: none;
+}
